@@ -1,10 +1,3 @@
-#! /bin/python3
-## Herencia es cuando una clase hijo hereda atributos de una clase padre.
-###### Tipos de herencia ##########
-# 1- herencia basica: que es cuando una clase hijo hereda del padre.
-# 2- herencia gerarquica: cuando varias clasese hijos heredan de la clase padre.
-# 3- herencia multiple: cuando una clase hija hereda de mas de una clase padre.
-
 class Persona:
     def __init__(self,nombre,sexo,edad):
         self.nombre = nombre
@@ -40,3 +33,9 @@ Messi.info()          ## aqui estamos utilizando el metodo info() que a pesar de
                  ## referencia, hereda el metodo(la funcion) de su clase padre Persona
 print (f'elrendimiento de {dairon.nombre} es {dairon.rendimiento}')
 
+## Metodo de prueba para saber si una clase hereda de la otra y para saber si un objeto es instancia de una clase.
+
+herencia = issubclass (Futbolista,Persona)
+print(herencia)   # devuelve True o False 
+instancia = isinstance(Messi,Futbolista)
+print(instancia) # devuelve True o False
