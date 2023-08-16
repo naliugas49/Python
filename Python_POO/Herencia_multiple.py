@@ -3,6 +3,7 @@ class Persona:
         self.nombre = nombre
         self.sexo = sexo
         self.edad = edad
+    
     def info(self):
         print( f'su nombre es {self.nombre} de sexo {self.sexo} y edad {self.edad}\n' )
         
