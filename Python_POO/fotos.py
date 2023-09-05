@@ -19,3 +19,4 @@ for nombre_archivo in os.listdir(directorio):
         # Renombra el archivo
         os.rename(ruta_original, ruta_nuevo)
         print(f"Archivo renombrado: {ruta_original} -> {ruta_nuevo}")
+        print("hello world")
