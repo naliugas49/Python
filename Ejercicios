@@ -1,0 +1,83 @@
+Ejercicio 1: Conteo de Vocales
+
+Escribe una función que tome una cadena como entrada y cuente cuántas vocales (mayúsculas y minúsculas) contiene. Utiliza bucles y métodos de cadenas como upper, lower, y count.
+
+Ejercicio 2: Lista de Cuadrados
+
+Crea una función que tome una lista de números y devuelva una nueva lista con los cuadrados de cada número, utilizando listas de comprensión.
+
+Ejercicio 3: Diccionario de Contactos
+
+Crea un diccionario de contactos donde cada contacto tiene un nombre y un número de teléfono. Luego, implementa funciones para agregar, buscar y eliminar contactos del diccionario.
+
+Ejercicio 4: Suma de Elementos Pares
+
+Escribe una función que tome una lista de números y devuelva la suma de los números pares utilizando bucles y condicionales.
+
+Ejercicio 5: Eliminar Elementos Duplicados
+
+Crea una función que tome una lista y elimine los elementos duplicados, manteniendo el orden original de la lista.
+
+Ejercicio 6: Cadenas Palíndromas
+
+Escribe una función que determine si una cadena es un palíndromo (se lee igual de izquierda a derecha y viceversa). Utiliza métodos de cadenas como replace y reverse.
+
+Ejercicio 7: Pares e Impares en Listas de Listas
+
+Dada una lista de listas de números, escribe una función que cuente cuántos números pares e impares hay en total.
+
+Ejercicio 8: Tuplas de Coordenadas
+
+Crea una lista de tuplas que representen coordenadas (x, y). Luego, implementa una función que encuentre la tupla con la coordenada más cercana al origen
+(0, 0).
+
+Ejercicio 9: Cadena a Lista y Viceversa
+
+Escribe una función que convierta una cadena en una lista de palabras (utilizando split) y otra función que haga lo contrario (convierta una lista de palabras en una cadena).
+
+Ejercicio 10: Juego de Adivinanza
+
+Crea un juego de adivinanza en el que el programa genera un número aleatorio y el usuario debe adivinarlo. Proporciona pistas como "Demasiado alto" o "Demasiado bajo". Utiliza bucles y condicionales para guiar al usuario hasta la respuesta correcta.
+
+
+
+
+
+
+Ejercicio 11: Gestión de Inventario
+
+Crea un programa que permita gestionar un inventario. Debes utilizar un diccionario para representar los elementos del inventario, donde las claves son los nombres de los productos y los valores son las cantidades disponibles. Implementa funciones para agregar, actualizar, eliminar y mostrar elementos del inventario. También permite que los usuarios realicen compras y actualicen el inventario en consecuencia.
+
+Ejercicio 12: Calculadora de Gastos Compartidos
+
+Escribe un programa que ayude a un grupo de personas a calcular cómo dividir los gastos compartidos, como el alquiler, las facturas y las compras de comestibles. El programa debe permitir a los usuarios ingresar los gastos y calcular automáticamente cuánto debe pagar cada persona, teniendo en cuenta las contribuciones individuales y los gastos compartidos.
+
+Ejercicio 13: Sistema de Reservas de Hoteles
+
+Crea un sistema simple de reservas de hoteles. Utiliza diccionarios para representar habitaciones disponibles y reservadas en un hotel. Permite a los usuarios realizar reservas, cancelar reservas y ver la disponibilidad de habitaciones en función de las fechas de entrada y salida.
+
+Ejercicio 14: Seguimiento de Tareas Pendientes
+
+Desarrolla una aplicación de seguimiento de tareas pendientes. Permite a los usuarios crear, eliminar y marcar tareas como completadas. Utiliza listas y diccionarios para organizar las tareas y su estado.
+
+Ejercicio 15: Análisis de Datos de Ventas
+
+Supongamos que tienes datos de ventas en un archivo CSV. Escribe un programa que lea el archivo, realice un análisis de ventas y genere un informe con estadísticas, como la suma de ventas, el promedio de ventas, el producto más vendido y el mes con mayores ventas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
